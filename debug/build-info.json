@@ -1,0 +1,22 @@
+{
+  "apkPath": "/debug/debug.apk",
+  "fileName": "debug.apk",
+  "packageName": "com.aistudio.remixenhance.debug",
+  "versionName": "2.5.101-debug (725b0fc)",
+  "versionCode": 101,
+  "fileSize": 310277,
+  "sha256": "7b4a212060b0a0726417e5e5146be702874165e40ac981db5f4a79a9c5623cbf",
+  "sourceHash": "725b0fc6ce2d3ec5",
+  "builtAt": "2026-10-22T21:05:42.492Z",
+  "autoUpdateEnabled": true,
+  "bundledFilesCount": 43,
+  "features": [
+    "Mobile Touch & Drag Selection Canvas (Touch + Pointer Events)",
+    "Tap-to-Zoom & Freehand Crop Modes with Adjustable Reticle Size",
+    "Direct Mobile Camera Capture & Photo Gallery Picker",
+    "AI Forensic Image Description & Enhancement History Drawer",
+    "Animated Zoom GIF Export & High-Res PNG Frame Download",
+    "Progressive Web App (PWA) Offline Service Worker & Install Prompt",
+    "Automatic Live-Synced debug.apk Packaging Pipeline"
+  ]
+}
